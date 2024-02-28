@@ -1,0 +1,115 @@
+.body-img{
+    background-image: url(img/bady-img.png);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 690px;
+}
+.Book-now{
+    padding: 15px 30px;
+    border-radius: 5px;
+    background: #1B75BB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navbar-div{
+    width: 1800px;
+}
+.Book-now2{
+    width: 120px;
+    height: 50px;
+    border-radius: 5px;
+    background: #1B75BB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.col-4-img{
+    background-image: url(img/Rectangle\ 13.png);
+    background-repeat: no-repeat;
+
+}
+.img-left{
+    margin-top: 70px;
+    margin-left: -250px;
+}
+.marg-t{
+    margin-top: 200px;
+}
+.Why-you{
+    margin-top: 140px;
+}
+.col2-bg{
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    border: 1px solid gray;
+    border-radius: 10px;
+
+}
+.quti-mt{
+    margin-top: 140px;
+}
+.col-5-img{
+    background-image: url(img/Rectangle\ 15.png);
+    background-repeat: no-repeat;
+    height: 337px;
+
+}
+.filtr-card{
+    border-radius: 10px;
+    background: rgba(226, 226, 226, 0.40);
+    
+    backdrop-filter: blur(5px);
+    width: 231px;
+    height: 126px;
+    flex-shrink: 0;
+}
+.Book-now3{
+    width: 90px;
+    height: 30px;
+    border-radius: 5px;
+    background: #1B75BB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* quti2 */
+.View{
+    margin-top: 100px;
+}
+.col-5-img1{
+    background-image: url(img/Rectangle\ 17.png);
+    background-repeat: no-repeat;
+    height: 337px;
+}
+.filtr-card1{
+    width: 231px;
+    height: 126px;
+    border-radius: 10px;
+    background: rgba(226, 226, 226, 0.40);
+    backdrop-filter: blur(5px);
+}
+.col-5-img2{
+    background-image: url(img/Rectangle\ 19.png);
+    background-repeat: no-repeat;
+    height: 337px;
+}
+.quti-2-mt{
+    margin-top: 25px;
+
+}
+.col-5-img3{
+    background-image: url(img/Rectangle\ 21.png);
+    background-repeat: no-repeat;
+    height: 337px;
+}
+.col-5-img4{
+    background-image: url(img/Rectangle\ 22.png);
+    background-repeat: no-repeat;
+    height: 337px;
+}
+
+/* quti2 */
+
